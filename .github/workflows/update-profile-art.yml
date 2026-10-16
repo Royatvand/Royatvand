@@ -4,8 +4,6 @@ name: Update profile art
   schedule:
     - cron: "17 6 * * *"   # ~06:17 UTC daily
   workflow_dispatch: {}
-  push:
-    branches: [main, master]
 
 permissions:
   contents: write
