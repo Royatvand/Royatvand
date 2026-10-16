@@ -1,11 +1,23 @@
 {
   "username": "pytho584",
-  "name": "Abolfazl Roytavand",
-  "role": "Full-stack Developer & AI Automation Builder",
+  "name": "Abolfazl",
+  "role": "Frontend Developer",
   "location": "Iran",
-  "status": "Building web projects, AI tools and automation workflows.",
-  "website": "http://chartmasters.top/",
-  "focus": "AI Automation · Web Development · Trading Tools",
-  "skills": ["JavaScript", "Python", "React", "Next.js", "n8n", "AI"],
-  "featured_repos": ["gradient", "gradient1", "dgrsager", "dashboeard"]
+  "status": "Building frontend projects and learning every day.",
+  "website": "https://chartmasters.top/",
+  "focus": "React · JavaScript · Frontend Development",
+  "skills": [
+    "JavaScript",
+    "React",
+    "HTML/CSS",
+    "Bootstrap",
+    "Git & GitHub",
+    "TypeScript"
+  ],
+  "featured_repos": [
+    "bluechat",
+    "unstream",
+    "mdn-persian",
+    "mql5-risk-manager"
+  ]
 }
