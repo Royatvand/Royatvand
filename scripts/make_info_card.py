@@ -20,15 +20,16 @@ ASCII_COL_W = 370
 CARD_COL_W = 490
 
 # ---------------------------------------------------------------- EDIT ME ----
-USER = "arta"
-HOST = "jenesyx"
+USER = "abolfazl"
+HOST = "pytho584"
 ROWS = [
-    ("Now",        "Building artabidkhori.com + my own startup + Agentic OS"),
-    ("Prev",       "Front-end work, UI design, small product builds"),
-    ("Stack",      "React · Next.js · JavaScript · TypeScript · Node · Sass · Solidity · C / C#"),
-    ("Highlights", "Design-to-code handoff, smart contracts, data-heavy UIs"),
-    ("Learning",   "Everything, but mostly Ai and Data"),
-    ("Reach",      "@jenesyx · artabidkhori.com"),
+    ("Role",      "Frontend Developer"),
+    ("Focus",     "React · JavaScript · Frontend Development"),
+    ("Stack",     "HTML · CSS · JavaScript · React · Bootstrap"),
+    ("Tools",     "Git · GitHub"),
+    ("Learning",  "TypeScript · Python"),
+    ("Interests", "AI · Automation · Developer Tools"),
+    ("Website",   "chartmasters.top"),
 ]
 # ------------------------------------------------------------------------------
 
