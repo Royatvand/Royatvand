@@ -20,7 +20,7 @@ import requests
 from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent.parent
-USERNAME = os.environ.get("GH_USERNAME", "Jenesyx")
+USERNAME = os.environ.get("GH_USERNAME", "Royatvand")
 URL = "https://github.com/users/{user}/contributions"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; profile-art/1.0; +https://github.com/{u})".format(u=USERNAME),
