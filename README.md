@@ -37,6 +37,10 @@ I learn by building projects, improving my fundamentals, and exploring tools tha
 - 🤖 **Interests:** AI, automation, and developer tools
 - 🎯 **Approach:** Keep learning, build consistently, and improve one project at a time
 
+<div align="center">
+  <img src="./whoami.svg" width="100%" alt="Abolfazl terminal profile card and ASCII portrait" />
+</div>
+
 ---
 
 ## `tech --list`
