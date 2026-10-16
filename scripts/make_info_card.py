@@ -21,7 +21,7 @@ CARD_COL_W = 490
 
 # ---------------------------------------------------------------- EDIT ME ----
 USER = "abolfazl"
-HOST = "pytho584"
+HOST = "Royatvand"
 ROWS = [
     ("Role",      "Frontend Developer"),
     ("Focus",     "React · JavaScript · Frontend Development"),
