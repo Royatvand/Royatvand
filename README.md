@@ -1,141 +1,180 @@
+
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
 
-<h3><code>abolfazl@github ~ $ ./contributions.sh</code></h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12372A,100:39D353&height=200&section=header&text=Abolfazl&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Enthusiast&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Abolfazl's profile banner" />
 
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap, last 12 months" />
+<a href="https://github.com/pytho584">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Abolfazl+%F0%9F%91%8B;Frontend+Developer;Building+with+React+%26+JavaScript;Learning%2C+Building%2C+Improving+Every+Day" alt="Animated introduction" />
+</a>
 
-<br><br>
+<br/>
 
-<h3><code>abolfazl@github ~ $ whoami</code></h3>
+<a href="https://github.com/pytho584">
+  <img src="https://img.shields.io/badge/GitHub-pytho584-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://chartmasters.top/">
+  <img src="https://img.shields.io/badge/Website-Visit-39D353?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" />
+</a>
 
-<pre>
-┌─────────────────────────────────────────────────────────────┐
-│  👤 Name:       Abolfazl (ابوالفضل)                      │
-│  📍 Location:   Iran                                      │
-│  💼 Role:       Developer & Open Source Enthusiast       │
-│  🎯 Focus:      Coding, Learning, Building               │
-│  🌱 Learning:   Always exploring new technologies         │
-│  💬 Ask me:     Anything tech-related!                   │
-│  ⚡ Fun fact:   I love turning ideas into code! 🚀       │
-└─────────────────────────────────────────────────────────────┘
-</pre>
+</div>
 
-<br>
+---
 
-<h3><code>abolfazl@github ~ $ skills --list</code></h3>
+<!-- ==================== ABOUT ME ==================== -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## `whoami`
 
-<br>
+```javascript
+const abolfazl = {
+  name: "Abolfazl",
+  role: "Frontend Developer",
+  focus: ["React", "JavaScript", "Frontend Development"],
+  learning: ["TypeScript", "Python"],
+  interests: ["Clean UI", "Web Development", "AI & Automation"],
+  mindset: "Learn by building"
+};
+```
 
-<h3><code>abolfazl@github ~ $ stats --show</code></h3>
+I'm a frontend developer passionate about building web experiences and improving my development skills.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abolfazl&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39d353" width="40%" />
-</p>
+I enjoy turning ideas into code, exploring new technologies, and learning through hands-on projects.
 
-<br>
+- ⚛️ Focused on React and modern frontend development
+- 🧩 Building projects to strengthen my practical skills
+- 🌱 Continuously learning and improving
+- 🤖 Interested in AI and automation
+- 🎯 Goal: Become a stronger, more versatile developer
 
-<h3><code>abolfazl@github ~ $ ls -la projects/</code></h3>
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## `tech --list`
+
+<div align="center">
+
+### Languages
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning" />
+
+### Frontend
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+### Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+## `ls ./projects`
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%">
-      <h4>🚀 Project One</h4>
-      <p>An awesome project that solves real problems</p>
-      <p>
-        <a href="https://github.com/abolfazl/project-one">🔗 Repository</a> •
-        <a href="https://project-one.com">🌐 Demo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h4>🛠️ Project Two</h4>
-      <p>Another amazing tool for developers</p>
-      <p>
-        <a href="https://github.com/abolfazl/project-two">🔗 Repository</a> •
-        <a href="https://project-two.com">🌐 Demo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📱 Mobile App</h4>
-      <p>Cross-platform mobile application</p>
-      <p>
-        <a href="https://github.com/abolfazl/mobile-app">🔗 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h4>🤖 AI Tool</h4>
-      <p>Machine learning and AI experiments</p>
-      <p>
-        <a href="https://github.com/abolfazl/ai-tool">🔗 Repository</a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 BlueChat
+
+A project in my development portfolio.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 ChartMasters
+
+A project in my development portfolio.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+Exploring ideas and tools in AI and automation.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 What's Next?
+
+Continuously learning, experimenting, and building new projects.
+
+</td>
+</tr>
 </table>
 
-<br>
+</div>
 
-<h3><code>abolfazl@github ~ $ achievements</code></h3>
+> Project descriptions and repository links can be added as each project's public repository is confirmed.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abolfazl&theme=onedark&no-frame=true&row=2&column=4" />
-</p>
+---
 
-<br>
+<!-- ==================== GITHUB STATS ==================== -->
 
-<h3><code>abolfazl@github ~ $ cat contact.txt</code></h3>
+## `github --stats`
 
-<p>
-  <a href="https://abolfazl.com/"><img src="https://img.shields.io/badge/Website-abolfazl.com-39d353?style=for-the-badge&labelColor=161b22&color=0d1117" alt="Website" /></a>
-  <a href="https://twitter.com/abolfazl"><img src="https://img.shields.io/badge/Twitter-@abolfazl-58a6ff?style=for-the-badge&logo=x&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Twitter" /></a>
-  <a href="https://instagram.com/abolfazl"><img src="https://img.shields.io/badge/Instagram-abolfazl-e4405f?style=for-the-badge&logo=instagram&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/abolfazl"><img src="https://img.shields.io/badge/LinkedIn-abolfazl-0a66c2?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="LinkedIn" /></a>
-  <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Discord-join-5865f2?style=for-the-badge&logo=discord&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Discord" /></a>
-  <a href="mailto:abolfazl@email.com"><img src="https://img.shields.io/badge/Email-abolfazl@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Email" /></a>
-</p>
+<div align="center">
 
-<br>
+<a href="https://github.com/pytho584">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pytho584&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+</a>
 
-<h3><code>abolfazl@github ~ $ fortune</code></h3>
+<a href="https://github.com/pytho584">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pytho584&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Most used programming languages" />
+</a>
 
-<p align="center">
-  <i>"The only way to do great work is to love what you do."</i> — Steve Jobs
-  <br>
-  <i>"Code is like poetry; it should be clean, elegant, and meaningful."</i> — Abolfazl
-</p>
+<br/><br/>
 
-<br>
+<img src="https://streak-stats.demolab.com?user=pytho584&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="GitHub contribution streak" />
 
-<details>
-<summary><b>🇮🇷 فارسی / Persian</b></summary>
-<br>
-<p align="center">
-سلام! من ابوالفضل هستم، توسعه‌دهنده نرم‌افزار و عاشق دنیای متن‌باز. 
-<br>
-این پروفایل من در گیت‌هاب است. خوشحال میشم با من در ارتباط باشید! 🚀
-</p>
-</details>
+</div>
 
-<br>
+---
 
-<sub><code>contrib-heatmap.svg</code> is re-scraped and re-rendered every day by <a href="./.github/workflows/update-profile-art.yml">a GitHub Action</a>. Everything above is generated by <a href="./scripts">scripts in this repo</a> — no third-party stats service, nothing to rate-limit, nothing to 404.</sub>
+<!-- ==================== CONNECT ==================== -->
 
-<br><br>
+## `connect --with-me`
 
-<a href="./SETUP.md"><strong>Use this profile style →</strong></a>
+<div align="center">
+
+<a href="https://github.com/pytho584">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://chartmasters.top/">
+  <img src="https://img.shields.io/badge/Website-ChartMasters-39D353?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+
+<br/><br/>
+
+💬 Interested in web development, React, or building cool things?
+
+Feel free to explore my repositories and connect!
+
+</div>
+
+---
+
+<div align="center">
+
+### `while (!success) { keepLearning(); }`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:0D1117&height=100&section=footer" width="100%" alt="Decorative footer" />
+
+<sub>Designed with 💚 by Abolfazl · Keep building. Keep growing.</sub>
 
 </div>
