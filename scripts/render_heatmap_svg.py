@@ -15,8 +15,8 @@ from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parent.parent
 
-PALETTE = ["#161b22", "#0e4429", "#006d32",
-           "#26a641", "#39d353", "#69f0a0"]
+PALETTE = ["#161b22", "#1e1b4b", "#312e81",
+           "#4338ca", "#6366f1", "#a5b4fc"]
 #          none -> brightest (level 5 is a neon top end)
 
 CELL = 12
@@ -34,7 +34,7 @@ BAR = "#161b22"
 STROKE = "#21262d"
 DIM = "#8b949e"
 VAL = "#c9d1d9"
-KEY = "#39d353"
+KEY = "#818cf8"
 
 MONO = ('ui-monospace, SFMono-Regular, Menlo, Consolas, '
         '&quot;DejaVu Sans Mono&quot;, monospace')
