@@ -49,7 +49,7 @@ I learn by building projects, improving my fundamentals, and exploring tools tha
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React, Vite, Bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React, Vite, Bootstrap" />
 
 **Tools & learning**
 
