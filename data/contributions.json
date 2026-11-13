@@ -1,11 +1,11 @@
 {
   "username": "Royatvand",
-  "generated_at": "2026-11-12T15:09:32+00:00",
+  "generated_at": "2026-11-13T14:31:15+00:00",
   "range": {
     "from": "2025-11-09",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
   },
-  "total": 7613,
+  "total": 7636,
   "days": [
     {
       "date": "2025-11-09",
@@ -1849,19 +1849,24 @@
     },
     {
       "date": "2026-11-12",
-      "count": 2,
+      "count": 3,
+      "level": 1
+    },
+    {
+      "date": "2026-11-13",
+      "count": 22,
       "level": 1
     }
   ],
   "stats": {
-    "current_streak": 89,
-    "longest_streak": 89,
+    "current_streak": 90,
+    "longest_streak": 90,
     "best_day": {
       "date": "2026-08-12",
       "count": 6068
     },
-    "active_days": 94,
-    "daily_average": 20.63,
+    "active_days": 95,
+    "daily_average": 20.64,
     "monthly": {
       "2025-11": 0,
       "2025-12": 0,
@@ -1875,7 +1880,7 @@
       "2026-08": 6575,
       "2026-09": 681,
       "2026-10": 218,
-      "2026-11": 139
+      "2026-11": 162
     }
   }
 }
