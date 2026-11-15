@@ -1,47 +1,12 @@
 {
   "username": "Royatvand",
-  "generated_at": "2026-11-14T13:27:59+00:00",
+  "generated_at": "2026-11-15T13:54:12+00:00",
   "range": {
-    "from": "2025-11-09",
-    "to": "2026-11-14"
+    "from": "2025-11-16",
+    "to": "2026-11-15"
   },
-  "total": 7649,
+  "total": 7655,
   "days": [
-    {
-      "date": "2025-11-09",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-10",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-11",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-12",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-13",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-14",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-15",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-16",
       "count": 0,
@@ -1859,19 +1824,24 @@
     },
     {
       "date": "2026-11-14",
-      "count": 12,
+      "count": 17,
+      "level": 1
+    },
+    {
+      "date": "2026-11-15",
+      "count": 1,
       "level": 1
     }
   ],
   "stats": {
-    "current_streak": 91,
-    "longest_streak": 91,
+    "current_streak": 92,
+    "longest_streak": 92,
     "best_day": {
       "date": "2026-08-12",
       "count": 6068
     },
-    "active_days": 96,
-    "daily_average": 20.62,
+    "active_days": 97,
+    "daily_average": 20.97,
     "monthly": {
       "2025-11": 0,
       "2025-12": 0,
@@ -1885,7 +1855,7 @@
       "2026-08": 6575,
       "2026-09": 681,
       "2026-10": 218,
-      "2026-11": 175
+      "2026-11": 181
     }
   }
 }
